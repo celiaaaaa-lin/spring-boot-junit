@@ -1,3 +1,3 @@
 # spring-boot-junit
 
-Simple junit project
+Simple JUnit project
